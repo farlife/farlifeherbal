@@ -1,6 +1,7 @@
 baseURL = "https://farlifeherbal.netlify.com/"
 languageCode = "en-us"
 title = "Farlife Herbal"
+theme = "hugo-creative-theme"
 
 [params]
 
