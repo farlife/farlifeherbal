@@ -75,6 +75,11 @@ theme = "hugo-creative-theme"
             icon = "fa-heart"
             title = "Made with Love"
             description = "You have to make your websites with love these days!"
+	        
+	[[params.services.list]]
+            icon = "fa-leaf"
+            title = "Herbal Tea"
+            description = "You have to make your websites with love these days!"
 
 
     # Portfolio modals
