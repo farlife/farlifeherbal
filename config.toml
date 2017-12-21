@@ -25,6 +25,7 @@ theme = "hugo-creative-theme"
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
 
+    custom_css = ["css/custom.css"]
 
 	# Navigation
 	[params.navigation]
@@ -41,7 +42,7 @@ theme = "hugo-creative-theme"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Healthy Life is not Far"
-		subtitle   = "We strive to bring the best herbal products in the form of tea bags and read-to-mix meal to you. We strongly beleive in healthy communities and we do our part by bringing organic and the best of chinese herbal recepies."
+		subtitle   = "We strive to bring the best herbal products in the form of tea bags and ready-to-mix meal to you. We strongly beleive in healthy communities and we do our part by bringing organic and the best of chinese herbal recepies."
 		buttonText = "Find out more"
 
 

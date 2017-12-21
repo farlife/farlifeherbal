@@ -1,0 +1,7 @@
+.bg-primary {
+  color: #fff;
+  background-color: #f040d1;
+}
+a.bg-primary:hover {
+  background-color: #286090;
+}
